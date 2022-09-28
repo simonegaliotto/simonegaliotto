@@ -1,27 +1,12 @@
-// ### Hi there 👋
-<h1> Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-#### I'm a Front-End Developer working in Vicenza, Italy.
+<h1> Hey there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+
+#### I'm Simone, a Front-End Developer working in Vicenza, Italy.
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 💼 &nbsp;I'm currently working at Develon Group Italy.\
 🌱 &nbsp;Learning all about Open Source.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and photography.\
-
-<!--
-**simonegaliotto/simonegaliotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
@@ -55,9 +40,17 @@ Here are some ideas to get you started:
     ![Xmapp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
     ![MacOS](https://img.shields.io/badge/apple-%23121011?style=for-the-badge&logo=apple&logoColor=white)
     ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-    ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+    ![Figma](https://img.shields.io/badge/figma-F7F7F7.svg?style=for-the-badge&logo=figma)
+    ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+    ![Lightroom](https://img.shields.io/badge/lightroom-001833.svg?style=for-the-badge&logo=adobelightroom)
+    ![Photoshop](https://img.shields.io/badge/photoshop-001833.svg?style=for-the-badge&logo=adobephotoshop)
     ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
     
 </p>
 
-<br> 
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-0077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simone-galiotto)
+[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/simone.galiotto.5/)
+[![Instagram](https://img.shields.io/badge/instagram-e1306c.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/simonegaliotto)
+[![Twitter](https://img.shields.io/badge/twitter-1da1f2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/simonegaliotto)
