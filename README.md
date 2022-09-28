@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💼 &nbsp;I'm currently working at Develon Group Italy.\
+💼 &nbsp;I'm currently working at **Develon Group**, Italy.\
 🌱 &nbsp;Learning all about Open Source.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and photography.\
 
