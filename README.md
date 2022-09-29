@@ -1,12 +1,12 @@
-<h1> Hey there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+# Hey there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 
-#### I'm Simone, a Front-End Developer working in Vicenza, Italy.
+I'm **Simone**, a Front-End Developer working in Vicenza, Italy.
 
-### 👨🏻‍💻 &nbsp;About Me
+## 👨🏻‍💻 &nbsp;About Me
 
 💼 &nbsp;I'm currently working at **Develon Group**, Italy.\
-🌱 &nbsp;Learning all about Open Source.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and photography.
+⛰️ &nbsp;I love hiking and lose myself in the beauty of nature.\
+✍️ &nbsp;In my free time, i pursue Graphic Design and photography.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
