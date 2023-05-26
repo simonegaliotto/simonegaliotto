@@ -4,7 +4,7 @@ I'm **Simone**, a Front-End Developer working in Vicenza, Italy.
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-💼 &nbsp;I'm currently working at **Develon Group**, Italy.\
+💼 &nbsp;I'm currently working at **Develon Digital**, Italy.\
 ⛰️ &nbsp;I love hiking and lose myself in the beauty of nature.\
 ✍️ &nbsp;In my free time, i pursue Graphic Design and photography.
 
