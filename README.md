@@ -12,7 +12,8 @@ I'm **Simone**, a Front-End Developer working in Vicenza, Italy.
 
 <p align="center">
 
-- 📋 Languages:  
+- 📋 Languages:
+  
   ![Languages](https://skillicons.dev/icons?i=html,css,js,php,md&theme=dark)
     
 - 🎨 Frameworks
